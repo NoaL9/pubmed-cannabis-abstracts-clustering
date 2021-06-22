@@ -26,6 +26,6 @@ In addition, using this file will display results that match the descriptions of
 
 ### Results
 
-![results](https://user-images.githubusercontent.com/86036130/122510501-5dfe5280-d00e-11eb-93d0-9aa29433a14d.png)
+![results](https://user-images.githubusercontent.com/86192942/122892587-2e24b700-d34e-11eb-9f7f-e43706d14d39.PNG)
 
-### This project was done in collaboration with Michal under the guidance of Itamar as part of the course - "Introduction to Data Science - Tools and Methods" offered by Campus IL and SCALE-UP.
+### This project was done in collaboration with Michal Tel-Or under the guidance of Itamar as part of the course - "Introduction to Data Science - Tools and Methods" offered by Campus IL and SCALE-UP.
